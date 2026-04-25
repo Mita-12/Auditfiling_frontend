@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+
+/* html {
+  font-family: 'Inter', sans-serif; 
+}
+
+* {
+  font-family: inherit;
+} */
+h2 {
+  font-size: x-large;
+  /* bigger than 'larger' */
+
+  font-size: 1.5rem;
+  padding: 0.6em 0;
+  color: rgb(41, 39, 39);
+  font-weight: bold;
+}
+
+p {
+  font-size: 0.950rem;
+  padding: 0.2em 0;
+}
+
+h3 {
+  font-size: medium !important;
+  padding: 0.6em 0;
+  font-weight: bold;
+
+
+  /* padding: 0.6em 0 !important; */
+
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  list-style-type: disc;
+  /* ● default bullet */
+
+  padding: 1px;
+  margin: 1px;
+}
+
